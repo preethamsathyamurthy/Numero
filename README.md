@@ -1,4 +1,4 @@
-Numero Metric App
+# Numero Metric App
 
 * Numero metric app cumulates all the metric passed to it.
 
