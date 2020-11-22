@@ -33,7 +33,6 @@ function isEmpty(obj) {
 ////////////////////////////////////////////////
 app.get('/metric', (req, res) => {
 const {body} = req;
-console.log(body);
 
 if(!(isEmpty(body)))
 {
