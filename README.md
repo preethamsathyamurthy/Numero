@@ -8,8 +8,6 @@ Numero Metric App
 
   
 
-[toc]
-
 ## Architecture
 
 
